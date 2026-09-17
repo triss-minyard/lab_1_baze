@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/status-active-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
-## Оглавление 📑
+## Оглавление 
 
 * [Возможности](#возможности)
 * [Установка](#установка)
@@ -50,7 +50,7 @@ python library_report.py
 
 ---
 
-## Использование 💻
+## Использование 
 
 Основная функция программы:
 
