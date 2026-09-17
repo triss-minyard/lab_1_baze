@@ -5,6 +5,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-green)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+https://sun9-15.vkuserphoto.ru/impf/84hFrp71xe3NhSbWEg3Z0C7VsQbw-VKwur1nAw/j6-Pu2hPbVk.jpg?size=1920x768&quality=95&crop=0,94,1200,480&sign=e0d613ea81ec015322d2adf6fbce0fac&type=cover_group
 
 ## Оглавление 
 
